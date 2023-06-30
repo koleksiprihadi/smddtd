@@ -1,0 +1,15 @@
+{
+  "name": "koleksiprihadi/api-jwt",
+  "authors": [
+    {
+      "name": "koleksiprihadi",
+      "email": "koleksiprihadi@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.2",
+    "firebase/php-jwt": "^5.2",
+    "almasaeed2010/adminlte": "~3.2",
+    "chillerlan/php-qrcode": "^4.3"
+  }
+}
